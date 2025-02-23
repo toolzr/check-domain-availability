@@ -12,6 +12,8 @@ A JavaScript-based open-source utility designed to check the availability of dom
 
 ## Usage
 
+The online version can be found at [toolzr.com/domain-availability](https://toolzr.com/domain-availability).
+
 This tool is open-source and licensed under the MIT License. You can use it online or locally by cloning this repository and opening `check-domain-availability.html` in your browser.
 
 ```bash
